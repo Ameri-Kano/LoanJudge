@@ -1,7 +1,7 @@
 package com.amerikano.api.loan.encrypt
 
 import org.springframework.stereotype.Component
-import java.util.Base64
+import java.util.*
 import javax.crypto.Cipher
 import javax.crypto.spec.IvParameterSpec
 import javax.crypto.spec.SecretKeySpec

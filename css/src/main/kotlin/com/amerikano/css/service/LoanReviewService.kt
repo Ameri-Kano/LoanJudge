@@ -3,7 +3,6 @@ package com.amerikano.css.service
 import com.amerikano.css.dto.LoanRequestDto
 import com.amerikano.css.dto.LoanResultDto
 import org.springframework.stereotype.Service
-import java.lang.RuntimeException
 
 @Service
 class LoanReviewService {
